@@ -1,5 +1,17 @@
 # v0.1.1 (Fri Apr 21 2023)
 
+#### ⚠️ Pushed to `main`
+
+- upadted changelog and package.json ([@EdWright75](https://github.com/EdWright75))
+
+#### Authors: 1
+
+- EdWright ([@EdWright75](https://github.com/EdWright75))
+
+---
+
+# v0.1.1 (Fri Apr 21 2023)
+
 
 
 ---
